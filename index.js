@@ -22,6 +22,9 @@ console.log(
   previusSibling.innerText
 );
 
+
+
+
 // Video soluzione
 
 const html = document.documentElement;
