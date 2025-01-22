@@ -37,4 +37,4 @@ const secondLi = ul.children[1];
 console.log(ul.parentElement);
 console.log(secondLi.innerHTML);
 console.log(secondLi.nextElementSibling.innerHTML);
-console.log(secondLi - previousElementSibling.innerHTML);
+console.log(secondLi.previousElementSibling.innerHTML);
